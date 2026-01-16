@@ -19,4 +19,6 @@ MixSets: https://www.mixmods.com.br/2022/03/sa-mixsets/
 
 Para los 3 GTA
 
+Open Limit Adjuster: https://www.mixmods.com.br/2022/10/open-limit-adjuster/
+
 SCRLog: https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-crash-em-mod-cleo/
