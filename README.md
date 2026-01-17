@@ -23,6 +23,8 @@ Classic AXIS (Solo III/VC): https://www.mixmods.com.br/2022/06/iii-vc-classic-ax
 
 SA & LCS Vehicle Camera Port (Solo III/VC): https://www.mixmods.com.br/2020/04/iii-vc-sa-lcs-vehicle-camera-port-camera-do-sa-e-lcs/
 
+GInput (Solo San Andreas ya que es el que no tiene solo pasen el archivo del mismo nombre a modloader): https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/
+
 Open Limit Adjuster: https://www.mixmods.com.br/2022/10/open-limit-adjuster/
 
 SCRLog: https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-crash-em-mod-cleo/
